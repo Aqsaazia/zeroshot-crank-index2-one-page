@@ -417,7 +417,11 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
+<<<<<<< HEAD
   background-image: url(../images/fav-1.jpg);
+=======
+  background-image: url(../images/loader.png);
+>>>>>>> e2d2090b09575abb9adfbdd5d760d8bd2de8cbbf
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;
